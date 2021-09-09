@@ -9,5 +9,7 @@
  7. add content to your home-component view in livewire
  8. connect your images using asset
 
+ 9. Creat ShopComponent,CartComponent and CheckoutComponent thesame way
+
 
  */
